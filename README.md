@@ -1,4 +1,5 @@
 Skincare Chatbot with LLM Integration
+
 Overview
 This project is a chatbot application that leverages the strengths of Large Language Models (LLM) to handle natural language queries specifically related to skin care. The chatbot is developed using Flowise and integrates the LLaMA3 LLM. The application allows users to interact with the chatbot through a user-friendly interface and provides accurate responses about skin care.
 
