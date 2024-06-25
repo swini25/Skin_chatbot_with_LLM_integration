@@ -56,7 +56,7 @@ The application has been tested with a variety of queries related to skin care t
 - "How can I reduce acne scars?"
 
 ## Video Demonstration
-A detailed video walkthrough of the application demonstrating its features and usage can be found [here](https://youtu.be/KoJAWLjfIoc).
+A detailed video walkthrough of the application demonstrating its features and usage can be found [here](https://youtu.be/Gcs8u8Brh7g).
 
 ## Documentation
 - **Flowise Documentation**: [Flowise Documentation](https://docs.flowiseai.com/)
